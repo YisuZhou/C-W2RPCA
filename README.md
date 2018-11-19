@@ -1,4 +1,4 @@
-# real-noisy-image-denoising-C-W2RPCA-
+#C-W2RPCA
 
 
 --cc_result   -   the denoised images of 15 images in CC (dataset 1)
